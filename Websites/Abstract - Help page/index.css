@@ -4,6 +4,11 @@
 	box-sizing: border-box;
 }
 
-.footer h5{
+.footer + h5{
 	font-color: white;
+}
+
+.footer-middle{
+	display: grid;
+	align-items: center;
 }
