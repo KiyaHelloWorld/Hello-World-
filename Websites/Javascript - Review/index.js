@@ -159,4 +159,13 @@ let noResult = !enrolledCollege;
 console.log("NOT operator result: " + noResult)
 
 
+// FUNCTIONS 
+
+function antokNaAko(){{
+	let antok = "bonaks ka ksi"
+	}
+	return antokNaAko
+}
+
+console.log(antok)
 
